@@ -1,0 +1,22 @@
+config:
+    host: 108.98.91.2
+    port: 89
+    thirdParty:
+        host: 100.08.19.20
+        name: user2
+        port: 90
+    userName: dummy
+list: '{"a","b","l"}'
+server:
+    port: 8081
+spring:
+    application:
+        name: properties Demo
+user:
+    fb:
+        name: kaushal
+    gmail:
+        name: kaushalsingh
+        password: kaushalsingh29
+values:
+    map: '{key1:''1'', kay2:''2'', key3:''3''}'
